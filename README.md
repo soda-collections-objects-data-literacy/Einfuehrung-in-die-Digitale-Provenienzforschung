@@ -4,18 +4,8 @@ Dieses Dokument ist eine Open Educational Ressource (OER) zum Thema "Einführung
 
 **[Zugang zum Selbstlernkurs](https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/Einfuehrung-in-die-Digitale-Provenienzforschung/main/OER-Einfuehrung-DPF_v1.0.md#1)**
 
-**Lernziele**
+**Themenblock 1 – Grundlagen der Provenienzforschung:** Teilnehmer*innen erhalten eine Einführung in zentrale Definitionen und historische Zusammenhänge. Behandelt werden u.a. Definitionen (Digitaler) Provenienzforschung, von Besitz und Eigentum, Kulturgut, sowie ein Einstieg in die historisch-rechtlich-ethischen Rahmenbedingungen z.B. die Washingtoner Prinzipien.
 
-* Provenienzforschung als Rekonstruktion von Objektbiografien in historischen Kontexten beschreiben
-* zentrale Begriffe wie Provenienzforschung, Kulturgut, Eigentum und Besitz erläutern
-* die Relevanz von Provenienzdokumentation für Sammlungen benennen
-* NS-verfolgungsbedingt entzogenes Kulturgut, koloniale Kontexte und SBZ-/DDR-Kontexte als unterschiedliche Untersuchungsfelder einzuordnen
-* Hinweise auf verschiedene Entzugskontexte erkennen und benennen
-* zentrale interne und externe Recherchequellen der Provenienzforschung unterscheiden
-* digitale Ressourcen, Datenbanken und grundlegende Recherchestrategien für die Provenienzforschung nutzen
-* die Bedeutung strukturierter Provenienzangaben für Veröffentlichung und Nachnutzung erläutern
-* zu erläutern, warum es relevant ist Unsicherheiten, Lücken, Forschungsstände und Quellenangaben in Provenienzangaben kenntlich machen
-* zentrale Qualitätskriterien strukturierter Provenienzangaben benennen
-* Provenienzangaben nach grundlegenden Standards strukturiert erfassen
-* die Relevanz von Metadaten, Normdaten und standardisierten Vokabularen für die digitale Provenienzforschung benennen
-* ereigniszentrierte Erfassung, semantische Modellierung und Graphdatenbanken als weiterführende Konzepte benennen
+**Themenblock 2 – Recherche von Provenienzinformationen:** Im Fokus stehen Strategien zur Identifikation verschiedener Entzugskontexte (NS, SBZ/DDR, Koloniale Kontexte). Darüber hinaus erfolgt ein Einblick in einige Recherchedatenbanken und Tools.
+
+**Themenblock 3 – Strukturierung von Provenienzangaben:** Es erfolgt eine Einführung in die Relevanz einer standardisierten Erfassung von Provenienzdaten. Zudem werden verschiedene Beispiele für Metadatenschemata gezeigt und gemeinsam diskutiert.
