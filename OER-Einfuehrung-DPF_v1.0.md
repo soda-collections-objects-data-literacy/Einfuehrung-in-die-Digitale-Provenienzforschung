@@ -1872,7 +1872,7 @@ SODa – Sammlungen, Objekte, Datenkompetenzen: https://sammlungen.io/
 
 **Zitiervorschlag:**
 
-Zöllner, G. & Reichert, R. (2026). Einführung (Digitale) Provenienzforschung. Zenodo.
+Zöllner, G., & Reichert, R. (2026). Selbstlernkurs: Einführung in die Digitale Provenienzforschung. Zenodo. https://doi.org/10.5281/zenodo.22296349
 
 ---
 
